@@ -1,0 +1,40 @@
+header{
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #2A9D8F;
+    padding: 38px 130px;
+}
+.logo{
+    
+    vertical-align:middle;
+}
+    
+nav,ul,li{
+    display: inline-block;
+}
+li{
+    vertical-align: middle;
+}
+.nav_01{
+    margin-left: 357px;
+}
+.nav{
+    margin-right: 51px;
+    margin-left: 51px;
+}
+.nav_li{
+    font-size: 20px;
+    font-family: 'Nerko One', cursive;
+    color: #FFFFFF;
+}
+.nav_03{
+    margin-right: 373px;
+}
+.header_button{
+    font-size: 20px;
+    padding: 8px 16px;
+    background-color: white;
+    
+    color: #2A9D8F;
+    
+}
