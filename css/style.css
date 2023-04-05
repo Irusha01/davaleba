@@ -28,13 +28,13 @@ li{
     color: #FFFFFF;
 }
 .nav_03{
-    margin-right: 373px;
+    /* margin-right: 373px; */
 }
 .header_button{
     font-size: 20px;
     padding: 8px 16px;
     background-color: white;
-    
+   float: right;
     color: #2A9D8F;
     
 }
